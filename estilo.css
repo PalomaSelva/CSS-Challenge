@@ -1,0 +1,32 @@
+
+.frame{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+    width: 400px;
+    height: 400px;
+    background-color: #8a2be2;
+    background: linear-gradient(to top right, #8a2be2 0% ,#4bb8da 100%);
+    box-shadow: 1px 2px 10px 0px rgba(0,0,0,0.3);
+    border-radius: 5px;   
+}
+.center{
+    position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+#um-um{
+    position: absolute;
+    transform:rotate(30deg);
+    width: 25px;
+    height: 40px;
+    background-color: blanchedalmond;
+    border-radius: 3px;
+}
+#um-doi{
+    width: 100px;
+    height: 40px;
+    background-color: blanchedalmond;
+}
