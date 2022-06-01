@@ -4,15 +4,15 @@
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-    width: 400px;
-    height: 400px;
-    background-color: #8a2be2;
-    background: linear-gradient(to top right, #cae9c0 7.14%, #bce6be 14.29%, #ade3bc 21.43%, #9bdeba 28.57%, #87d9b9 35.71%, #6fd3b9 42.86%, #50ccb9 50%, #1ec5bb 57.14%, #00bebe 64.29%, #00b8c3 71.43%, #00b2c8 78.57%, #00acce 85.71%, #00a7d5 92.86%, #00a2db 100%);
-    background: -moz-linear-gradient(to top right, #cae9c0 7.14%, #bce6be 14.29%, #ade3bc 21.43%, #9bdeba 28.57%, #87d9b9 35.71%, #6fd3b9 42.86%, #50ccb9 50%, #1ec5bb 57.14%, #00bebe 64.29%, #00b8c3 71.43%, #00b2c8 78.57%, #00acce 85.71%, #00a7d5 92.86%, #00a2db 100%));
-    box-shadow: 1px 2px 10px 0px rgba(0,0,0,0.3);
-    border-radius: 5px; 
-    color: #ffffff;
-    font-family: 'Courier New', Courier, monospace;
+	    width: 400px;
+	    height: 400px;
+	    background-color: #8a2be2;
+	    background: linear-gradient(to top right, #cae9c0 7.14%, #bce6be 14.29%, #ade3bc 21.43%, #9bdeba 28.57%, #87d9b9 35.71%, #6fd3b9 42.86%, #50ccb9 50%, #1ec5bb 57.14%, #00bebe 64.29%, #00b8c3 71.43%, #00b2c8 78.57%, #00acce 85.71%, #00a7d5 92.86%, #00a2db 100%);
+	    background: -moz-linear-gradient(to top right, #cae9c0 7.14%, #bce6be 14.29%, #ade3bc 21.43%, #9bdeba 28.57%, #87d9b9 35.71%, #6fd3b9 42.86%, #50ccb9 50%, #1ec5bb 57.14%, #00bebe 64.29%, #00b8c3 71.43%, #00b2c8 78.57%, #00acce 85.71%, #00a7d5 92.86%, #00a2db 100%);
+	    box-shadow: 1px 2px 10px 0px rgba(0,0,0,0.3);
+	    border-radius: 5px; 
+	    color: #ffffff;
+	    font-family: 'Courier New', Courier, monospace;
   
 }
 
